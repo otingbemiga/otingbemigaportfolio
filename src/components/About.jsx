@@ -50,7 +50,7 @@ const About = () => {
             }
 
             <img 
-            src="/public/images/onefirstechLogo wite3.jpg" 
+            src="/images/logo.jpg" 
             alt="Logo" 
             width={30}
             height={30}

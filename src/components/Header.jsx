@@ -35,10 +35,10 @@ const Header = () => {
                 >
                     <img 
                         className="h-8 w-auto"
-                        src="/public/images/onefirstechLogo wite3.jpg"
+                        src="/images/logo.jpg"
                         width={40}
                         height={40}
-                        alt="Gbenga Dainel"
+                        alt="Gbenga"
                     />
                 </a>
             </h1>

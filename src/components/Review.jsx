@@ -29,37 +29,37 @@ const reviews = [
       
       content: 'Impressive work! Lightning-fast load times, intuitive design, and seamless backend integration. Highly recommended',
       name: 'Charles',
-      imgSrc: '/images/people-1.png',
+      imgSrc: '/img/people-1.png',
       company: 'LfcUpdate'
     },
     {
       content: 'Exceptional web development! Delivered a highly responsive and seamless website with clean, efficient code and an outstanding user experience.',
       name: 'Dele Oshibotu',
-      imgSrc: '/images/people-2.png',
+      imgSrc: '/img/people-2.png',
       company: 'BamishayTravels'
     },
     {
       content: 'Outstanding developer! Delivered a highly robust site with flawless functionality. Efficient, meticulous, and detail-oriented.',
       name: 'Adebayo Adebusoye',
-      imgSrc: '/images/people-3.png',
+      imgSrc: '/img/people-3.png',
       company: 'Prime Fidelity LLC'
     },
     {
       content: 'Creative and highly skilled! Developed a modern, user-friendly site that went beyond expectations. Excellent communication throughout.',
       name: '  Victoria Ibikunle',
-      imgSrc: '/images/people-4.png',
+      imgSrc: '/img/people-4.png',
       company: ' Worldbesthub'
     },
     {
       content: 'Professional and timely delivery! Created a polished design with a seamless user experience. A top-tier developer.',
       name: 'Onimisi',
-      imgSrc: '/images/people-5.png',
+      imgSrc: '/img/people-5.png',
       company: 'Onimisi Bakery'
     },
     {
       content: 'Excellent execution! Delivered high-quality code, a responsive design, and showcased exceptional problem-solving skills.',
       name: 'Eniola Emmanuel',
-      imgSrc: '/images/people-6.png',
+      imgSrc: '/img/people-6.png',
       company: 'TheFriendCity'
     }
   ];

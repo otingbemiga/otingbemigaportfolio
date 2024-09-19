@@ -27,10 +27,10 @@ import ReviewCard from "./ReviewCard";
 const reviews = [
     {
       
-      content: 'Impressive work! Lightning-fast load times, intuitive design, and seamless backend integration. Highly recommended',
-      name: 'Charles',
-      imgSrc: '/img/people-1.png',
-      company: 'LfcUpdate'
+      content: 'Creative and highly skilled! Developed a modern, user-friendly site that went beyond expectations. Excellent communication throughout.',
+      name: 'Victoria Ibikunle',
+      imgSrc: '/img/people-4.png',
+      company: 'Worldbesthub'
     },
     {
       content: 'Exceptional web development! Delivered a highly responsive and seamless website with clean, efficient code and an outstanding user experience.',
@@ -45,14 +45,15 @@ const reviews = [
       company: 'Prime Fidelity LLC'
     },
     {
-      content: 'Creative and highly skilled! Developed a modern, user-friendly site that went beyond expectations. Excellent communication throughout.',
-      name: '  Victoria Ibikunle',
-      imgSrc: '/img/people-4.png',
-      company: ' Worldbesthub'
+      
+      content: 'Impressive work! Lightning-fast load times, intuitive design, and seamless backend integration. Highly recommended',
+      name: 'Dr. Charles',
+      imgSrc: '/img/people-1.png',
+      company: 'LfcUpdate'
     },
     {
       content: 'Professional and timely delivery! Created a polished design with a seamless user experience. A top-tier developer.',
-      name: 'Onimisi',
+      name: 'Pst. Onimisi',
       imgSrc: '/img/people-5.png',
       company: 'Onimisi Bakery'
     },

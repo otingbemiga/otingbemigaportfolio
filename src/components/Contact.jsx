@@ -73,7 +73,6 @@ const Contact = () => {
                         key={key}
                         href={href}
                         target="_blank"
-                        rel="noopener noreferrer"
                         aria-label={icon.props.alt} 
                         className="w-12 h-12 grid place-items-center ring-inset ring-2 ring-pink-500 rounded-lg transition-[background-color,color] hover:bg-pink-500 hover:ring-slate-50 hover:text-zinc-950 active:bg-pink-500/80 reveal-up"
                     >
